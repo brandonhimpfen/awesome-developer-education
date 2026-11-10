@@ -8,8 +8,6 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-📌 This repository is archived with Zenodo and can be cited using the DOI above.
-
 > A curated list of resources for developer education, engineering onboarding, technical writing, interactive coding platforms, and developer relations (DevRel).
 
 Developer education encompasses the methodologies, platforms, and documentation structures designed to help software engineers learn new technologies, onboard into codebases, and master technical skills. This list is intended for developer advocates, technical writers, engineering managers, and developer relations professionals.
